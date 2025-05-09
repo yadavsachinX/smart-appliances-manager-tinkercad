@@ -20,6 +20,3 @@ Each appliance draws simulated current. The Arduino checks the total current and
 
 ## Simulation Link
 (https://www.tinkercad.com/things/3jn8FUGHiKV-smart-appliances-manager)
-
-## Author
-[Your Name]
