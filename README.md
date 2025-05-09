@@ -19,7 +19,7 @@ This is a simulation project developed in Tinkercad to manage multiple appliance
 Each appliance draws simulated current. The Arduino checks the total current and disables the appliances when the sum crosses a defined threshold, and triggers a buzzer.
 
 ## Simulation Link
-[Tinkercad Simulation](#) *(Insert your public project link here)*
+(https://www.tinkercad.com/things/3jn8FUGHiKV-smart-appliances-manager)
 
 ## Author
 [Your Name]
